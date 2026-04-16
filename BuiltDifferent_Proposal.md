@@ -361,7 +361,7 @@ The free tier is not a compromise it is a deliberate investment in community bre
 
 Once a month scaling to fortnightly as community size grows the hub hosts a **community startup pitch night**, inspired by the African collective savings tradition known across the continent and Carribean as *susu*, *stokvel*, *chama*, or *round*.
 
-The mechanics are simple: founders and builders pay a $20 entry fee toa pitch event where they submit their idea to the pool. The community/attendees select the ten strongest ideas from the submissions. Those ten pitch on the night. The room votes. The winner receives the full pool a minimum of $1,000 with fifty participants as direct seed funding for their venture.
+The mechanics are simple: founders and builders pay a $20 entry fee to a pitch event where they submit their idea to the pool. The community/attendees select the ten strongest ideas from the submissions. Those ten pitch on the night. The room votes. The winner receives the full pool a minimum of $1,000 with fifty participants as direct seed funding for their venture.
 
 This stream does three things simultaneously. It generates a recurring community event with a built-in revenue model. It creates a pipeline of early-stage ventures that may become future B2B studio clients/employers or hub-affiliated startups in which Built Different holds a small equity stake. And it creates a culture of entrepreneurship, peer accountability, and community investment that no external programme can manufacture because it is built by and for the community itself. We have more startup programs in the works.
 
