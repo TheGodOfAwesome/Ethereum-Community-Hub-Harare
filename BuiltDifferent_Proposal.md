@@ -514,3 +514,26 @@ The cohort transitions from a classroom into a functioning Web3 development agen
 2. **Ecosystem Tooling Adoption:** Graduates emerge as native users of Foundry, Scaffold-ETH 2, and AI harnessing tools, raising the technical standard of the local developer community.
 3. **Live Mainnet Activity:** The final three months guarantee the deployment of functional, client-backed dApps, driving transaction volume and real-world utility.
 4. **Scalable Community Framework:** This curriculum is fully open-source and modular. The methodology can be duplicated by other Ethereum Community Hubs globally, establishing a new global standard for Web3 education.
+
+---
+
+## 13. Appendix: External Links & References
+
+### Core Project Documentation & Heritage
+
+* **Muzinda Hub 1,000 Techies Army Campaign:** [TechZim - Muzinda Hub Army](https://www.techzim.co.zw/2015/01/muzinda-hub-army-1000-zimbabwean-techies-entrepreneurs/)
+* **Econet Formal Adoption of Muzinda Hub:** [TechZim - Econet Adopts Muzinda](https://www.techzim.co.zw/2015/08/econet-confirms-adoption-muzinda-hub-explains-motivation/)
+* **Income Generation Impact (reported earnings):** [TechZim - Strive Masiyiwa on Student Earnings](https://www.techzim.co.zw/2019/08/strive-masiyiwa-muzinda-hub-former-students-have-earned-120-million-since-2014/)
+* **Creating Opportunities for Zimbabwean Youth:** [263Chat - Muzinda Hub Impact](https://www.263chat.com/263tech-muzinda-hub-creating-opportunities-young-zimbabweans/)
+* **Top 5 Disruptive African Incubators Recognition:** [Disrupt Africa - 2014 Review](https://disruptafrica.com/2014/12/29/top-5-disruptive-incubators-2014/)
+
+### Contextual Research & Social Impact
+
+* **UNICEF Report: Investing in Zimbabwe’s Youth:** [UNICEF Zimbabwe - Generation Unlimited](https://www.unicef.org/zimbabwe/reports/investing-zimbabwes-youth-generation-unlimited)
+
+### Team Professional Profiles
+
+* **Kuzivakwashe Muvezwa (Founder):** [LinkedIn Profile](https://www.linkedin.com/in/kuzivakwashemuvezwa/)
+* **George Chakama (Technical/AI):** [LinkedIn Profile](https://www.linkedin.com/in/georgechakama/)
+* **Tafadzwa Aliyah Ndoro (Growth/Ops):** [LinkedIn Profile](https://www.linkedin.com/in/tafadzwa-aaliaya-ndoro-1a4558252/)
+* **Tinashe Bandera (Web3/Finance):** [LinkedIn Profile](https://www.linkedin.com/in/tinashebandera/)
