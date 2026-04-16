@@ -60,6 +60,8 @@ We are a non-profit Web3 ecosystem builder that has been deeply active in the de
   * *Former Facebook Developer Circles Lead:* Helped create and managed the largest and most active developer community in Zimbabwe for 4+ years, leading deep-dive training on PyTorch, AI, and AR/VR using Facebook open-source tools.
   * *Former Muzinda Hub (Startup & Project Coordinator):* An integral part of a 6-person team that trained 1,000+ students, directly facilitating job placement and startup acceleration.
   * *Web3 Architect:* Extensive experience utilizing the EVM, Smart Contracts, AI orchestration, and integrating crypto-rails for autonomous agent monetization.
+    - Ethglobal 🏆 [BuildQuest Best Multiplayer Award — *Caste* | EthGlobal, March 2022](https://ethglobal.com/showcase/caste-m7bgy)
+    - Ethglobal 🌱 [Lens Protocol Promising Seedlings Award — *Screen* | EthGlobal](https://ethglobal.com/showcase/screen-wpgc8)
   * https://www.linkedin.com/in/kuzivakwashemuvezwa/
 * **Core Team:**
   * George Chakama Software Development and AI - https://www.linkedin.com/in/georgechakama/
